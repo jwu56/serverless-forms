@@ -2,7 +2,7 @@
   "name": "Email form data",
   "description": "NodeJS app to send form submissions by email",
   "logo": "",
-  "repository":"https://github.com/lexoyo/email-form-data.git",
+  "repository":"https://github.com/jwu56/serverless-forms.git",
 	"buildpacks": [
 		{
 			"url": "heroku/nodejs"
